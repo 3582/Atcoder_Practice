@@ -1,0 +1,4 @@
+tests
+*.in
+*.out
+contest.acc.json
